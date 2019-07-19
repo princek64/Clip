@@ -1,0 +1,47 @@
+h1 {
+    background-color: purple;
+}
+ 
+.hide {
+    display: none;
+} 
+
+/* #image1{
+    margin: auto;
+} */
+
+
+/* #image2 {
+    display: none;
+}
+
+#image3 {
+    display: none;
+}
+
+#image4 {
+    display: none;
+} */ 
+
+  
+
+/* ////CLIP PATH//// */
+
+
+/* #image1 {
+    clip-path: inset(0px 0px 0px 0px);
+} */
+
+/* 
+#image2{
+    clip-path: inset(0px 0px 33px 0px);
+}
+
+#image3{
+    clip-path: inset(0px 0px 33px 0px);
+}
+
+#image4{
+    clip-path: inset(0px 0px 33px 0px);
+} */
+ 
